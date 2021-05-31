@@ -1,0 +1,33 @@
+#frog{
+  height:270px;
+  width:450px;
+  border-radius:50%;
+}
+body{
+  background:radial-gradient( #56cbe3 0%, #10649a 100% );
+  background-repeat:no-repeat;
+  text-align:center;
+    padding-top: 50px
+}
+#frog2{
+  font-size:17.50px;
+}
+.menu{
+    color: azure;
+    background-color: cadetblue;
+    display: inline;
+    list-style: none;
+  
+    top: 10px;
+    right: 30px;
+    position: fixed;
+}
+.link{
+    float: left;
+    padding-top:5px;
+    padding-left: 9px;
+    padding-right: 9px;
+    padding-bottom: 5px;
+    font-family: sans-serif;
+    
+}
